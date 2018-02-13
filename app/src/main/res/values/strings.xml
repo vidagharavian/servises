@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Alfia</string>
+    <string name="fa_LoginSignIn">ورود با حساب کاربری</string>
+    <string name="fa_LoginSignUp">عضویت</string>
+    <string name="fa_EnterAsGuest">ورود به عنوان مهمان</string>
+    <string name="fa_Name">نام</string>
+    <string name="fa_Surname">نام خانوادگی</string>
+    <string name="fa_Email">آدرس ایمیل</string>
+    <string name="fa_Password">رمز عبور</string>
+    <string name="fa_MobileNumber">شماره موبایل</string>
+    <string name="fa_ForgetPassword">رمز عبور را فراموش کردم.</string>
+    <string name="fa_Enter">ورود</string>
+</resources>
